@@ -1,0 +1,4 @@
+a0q0	a0Eq0
+a1q0	a1Eq0
+a0q1	a1Eq0
+a1q1	a0Eq0
